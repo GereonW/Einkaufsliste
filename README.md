@@ -1,5 +1,7 @@
 # Lebenslauf
 
+ <img src=".\pictures\GereonWolf_Logo.jpg" alt="GereonWolf_Logo" style="zoom:10%;" />
+
 Vorname: **David Gereon**
 
 Name: **Wolf**
